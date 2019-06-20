@@ -1,0 +1,3 @@
+interface SwitchIF {
+    boolean isOn();
+}
